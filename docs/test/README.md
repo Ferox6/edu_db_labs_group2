@@ -1,4 +1,9 @@
 # Тестування працездатності системи
 
-*В цьому розділі необхідно вказати засоби тестування, навести вихідні коди тестів та результати тестування.*
+## login
+![](media/Postman_fqB4X6j55Q.png)
+## Register
+![](media/Postman_fqB4X6j55Q.png)
+## UserDelete
+![](media/Postman_qSH7EPcDWg.png)
 
