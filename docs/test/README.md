@@ -1,6 +1,6 @@
 # Тестування працездатності системи
 
-## login
+## Login
 ![](media/Postman_fqB4X6j55Q.png)
 ## Register
 ![](media/Postman_fqB4X6j55Q.png)
